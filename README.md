@@ -1,4 +1,4 @@
-# Automatic Logo Detection - Phase 1
+# Automatic Logo Detection 
 
 ## Description
 A [gradio](https://www.gradio.app/guides/quickstart) application allowing users to detect potential logos given an input image. It performs zero-shot object detection using the [OWLv2 Model](https://huggingface.co/docs/transformers/main/model_doc/owlv2).
