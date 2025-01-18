@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+gradio
+numpy
+pandas
+pillow
+scipy
+supervision
+timm
+einops
+bitsandbytes
+accelerate
